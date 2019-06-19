@@ -13,4 +13,9 @@
 
 - [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
 
+## GROWTH/雷雲プロジェクト
+
+- [Photonuclear reaction schematic illustration](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg)
+- [光核反応の模式図](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg)
+
 ## 有用なリンク
