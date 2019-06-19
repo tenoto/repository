@@ -2,4 +2,4 @@
 
 テスト
 
-[ASTRO-H CookBook version 1.02](bit.ly/2Jd5F07) 
+[ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf) 
