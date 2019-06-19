@@ -11,6 +11,6 @@
 
 ## Python サンプルコード
 
-- [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) Google Colaboratory で P-Pdot 図を描くコード
+- [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
 
 ## 有用なリンク
