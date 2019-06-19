@@ -7,3 +7,6 @@
 - [QDP/PLT Color and Line Style Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/qdp_color_code.png)
 - [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/docs/matplotlib_color_symbol_sheet.jpg)
 
+Python サンプルコード
+---
+- [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td)
