@@ -23,7 +23,7 @@
 - [榎戸輝揚の履歴書(日本語)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190429.pdf)
 - [ORCID](https://orcid.org/0000-0003-1244-3100)
 - [GitHub](https://github.com/tenoto)
-- [Researchmap](https://researchmap.jp/teruaki_enoto/)
+- [Researchmap](https://researchmap.jp/teruaki_enoto/?lang=japanese)
 - [publons](https://publons.com/author/1432823/teruaki-enoto#profile)
 - [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
 - [主著論文リスト (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
