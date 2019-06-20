@@ -31,7 +31,7 @@
 
 ## 中性子星の研究
 
-
+- [宇宙科学最前線: 中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)
 
 
 ## 研究歴
@@ -49,6 +49,7 @@
 
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
+- [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be) 2017/10/11 International Symposium TEDxKyotoUniversity 2017
 
 ## 有用なリンク
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
