@@ -19,6 +19,7 @@
 
 - [(YouTube)【雷から反物質】若手研究者が挑む！カミナリ研究の最前線](https://www.youtube.com/watch?v=ZgQLdRz2pBE) : 2019/6/20 公開 ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8))
 - [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
+- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : 2018/5/1 Academist Journal
 - [(プレスリリース) 雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html)　: 2017/11/24 公開
 - [(academist) カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16)
 
