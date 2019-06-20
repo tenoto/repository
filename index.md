@@ -13,6 +13,7 @@
 ## Python サンプルコード
 
 - [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
+- [NICER ObsID Quick Look](https://colab.research.google.com/drive/1KXE_wwETFKiQiOb1x-HPKWsMaUKZQe1l) : NICER の ObsID データを Quick Look するプログラム
 
 ## GROWTH/雷雲プロジェクト
 
@@ -24,7 +25,7 @@
 - [ORCID](https://orcid.org/0000-0003-1244-3100)
 - [GitHub](https://github.com/tenoto)
 - [Researchmap](https://researchmap.jp/teruaki_enoto/?lang=japanese)
-- [publons](https://publons.com/author/1432823/teruaki-enoto#profile)
+- [publons](https://publons.com/author/1432823/teruaki-enoto#profile)：おもに、Peer review (査読歴)を証明するために使っています。
 - [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
 - [主著論文リスト (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
 - [全出版論文リスト (A list of all publications)](https://ui.adsabs.harvard.edu/public-libraries/SpXw37veTXyHsPiTYLwHLg)
