@@ -17,6 +17,7 @@
 
 ## GROWTH/雷雲プロジェクト
 
+- [(YouTube)【雷から反物質】若手研究者が挑む！カミナリ研究の最前線](https://www.youtube.com/watch?v=ZgQLdRz2pBE) : 2019/6/20 公開 ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8))
 - [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
 
 ## 研究歴
