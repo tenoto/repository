@@ -1,6 +1,6 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚([CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190429.pdf))が[GitHub](https://github.com/tenoto/repository) に置いている資料の一覧を示しています。
+このページには、榎戸輝揚が [GitHub](https://github.com/tenoto/repository) に置いている資料の一覧を示しています。
 
 ## 自作資料
 
@@ -16,8 +16,11 @@
 
 ## GROWTH/雷雲プロジェクト
 
-- [Photonuclear reaction schematic illustration](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg)
-- [光核反応の模式図](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg)
+- [光核反応の模式図](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
+
+## 研究歴
+
+- [榎戸輝揚の履歴書(日本語)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190429.pdf)
 
 ## 有用なリンク
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
