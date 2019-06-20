@@ -16,11 +16,18 @@
 
 ## GROWTH/雷雲プロジェクト
 
-- [光核反応の模式図](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
+- [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
 
 ## 研究歴
 
 - [榎戸輝揚の履歴書(日本語)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190429.pdf)
+- [ORCID](https://orcid.org/0000-0003-1244-3100)
+- [GitHub](https://github.com/tenoto)
+- [Researchmap](https://researchmap.jp/teruaki_enoto/)
+- [publons](https://publons.com/author/1432823/teruaki-enoto#profile)
+- [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
+- [主著論文リスト (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
+- [全出版論文リスト (A list of all publications)](https://ui.adsabs.harvard.edu/public-libraries/SpXw37veTXyHsPiTYLwHLg)
 
 ## 有用なリンク
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
