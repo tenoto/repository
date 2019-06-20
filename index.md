@@ -52,12 +52,38 @@
 - [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be) 2017/10/11 International Symposium TEDxKyotoUniversity 2017
 
 ## 有用なリンク
+
+- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) : 国をまたいだ会議時間の設定に便利
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
+- [Rainy Cafe](http://rainycafe.com) : 雨音を聞いて集中しましょう
 
-## 物理と天文のデータベース
+## 物理学データベース
 
+- [X-ray Data Booklet](http://xdb.lbl.gov)
+- [Particle Data Group](http://pdg.lbl.gov)
+
+## 天文学データベース
+
+- [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
+- [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
+
+### 銀河系 (Galaxy)
+- [Dark Clouds World](http://darkclouds.u-gakugei.ac.jp/index.html)
+
+### 超新星 (Supernovae)
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
+
+## ウェブ教科書
+
+- [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu)
+- [The Course of Theoretical Physics by Landau and Lifshitz](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22)
 
 ## 解析ソフトウェア
 
+- [Super Mjograph](https://www.mjograph.net)
+- [Plot Digitizer](http://plotdigitizer.sourceforge.net)
+- [Emmanoulopoulos Lightcurve Simulation](https://github.com/samconnolly/DELightcurveSimulation)
 - [HENDRICS and stingray](https://github.com/StingraySoftware) : 時刻解析やスペクトル解析に使える Bacheeti さんのコード
+
+
+
