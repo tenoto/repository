@@ -73,6 +73,10 @@
 ### 超新星 (Supernovae)
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
 
+### 超新星残骸 (Supernovae Remnant)
+- [A Catalogue of Galactic Supernova Remnants: Documentation (Green Catalog)](http://www.mrao.cam.ac.uk/projects/surveys/snrs/snrs.info.html)
+- [Chandra Supernova Remnant Catalog](http://hea-www.cfa.harvard.edu/ChandraSNR/)
+
 ## ウェブ教科書
 
 - [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu)
