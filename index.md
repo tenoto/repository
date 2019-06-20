@@ -36,3 +36,7 @@
 ## 物理と天文のデータベース
 
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
+
+## 解析ソフトウェア
+
+- [HENDRICS and stingray](https://github.com/StingraySoftware) : 時刻解析やスペクトル解析に使える Bacheeti さんのコード
