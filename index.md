@@ -21,3 +21,7 @@
 
 ## 有用なリンク
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
+
+## 物理と天文のデータベース
+
+- [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
