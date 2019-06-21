@@ -54,6 +54,7 @@
 
 ## 解説記事
 
+- [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf)　日本物理学会誌 2019年4月号 交流
 - [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)　ISAS ニュース 2018年6月号 宇宙科学最前線
 
 
