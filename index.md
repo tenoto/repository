@@ -59,7 +59,8 @@
 - [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html) ISAS ニュース 2018年6月号 宇宙科学最前線
 - [宇宙最強の磁石星: マグネター観測で垣間見る極限物理](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2015/2015_08/1508_cont.html)　物理科学月刊誌パリティ 2015年8月号
 - [ふり返れば「坂の上の雲」,ではダメである](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/doctor/13-1.html) 東京大学理学部ニュース 2014年1月号45巻5号 世界に羽ばたく理学博士（第13回) 
-- [硬Ｘ線によるマグネター研究の進展 --宇宙で最強の磁石星?--](http://www.asj.or.jp/geppou/archive_open/2012_105_07/105_431.pdf)
+- [硬Ｘ線によるマグネター研究の進展 --宇宙で最強の磁石星?--](http://www.asj.or.jp/geppou/archive_open/2012_105_07/105_431.pdf) 日本天文学会誌 天文月報 vol.7, 431-440
+- [雷雲は天然の粒子加速器か?](http://www.asj.or.jp/geppou/archive_open/2008_101_11/101_667.pdf) 日本天文学会誌 天文月報 vol.101, 667-676
 
 ## 取材記録
 
