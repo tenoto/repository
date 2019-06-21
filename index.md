@@ -38,6 +38,7 @@
 	+ [画像セット](https://www.dropbox.com/s/6kcil3fvi18wxoo/figures_distribution.zip?dl=0)
 - 2018/05/29 [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか
 - 2017/11/24 [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか
+	+ プレスキット: [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
 - 2007/10/5 [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか
 
 
@@ -47,10 +48,6 @@
 - 2018/04/24 [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express
 - 2017/10/11 [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017
 - 2015/08/17 [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist 
-
-## 画像・イラスト
-
-- [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
 
 ## 解説記事
 
