@@ -54,8 +54,12 @@
 
 ## 解説記事
 
-- [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf)　日本物理学会誌 2019年4月号 交流
-- [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)　ISAS ニュース 2018年6月号 宇宙科学最前線
+- [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf) 日本物理学会誌 2019年4月号 交流
+- [雷が引き起こす大気中核反応で陽電子生成](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2018/2018_10/1810_cont.html)　物理科学月刊誌パリティ 2018年10月号
+- [雷の光が原子核の反応を引き起こす!?](https://www.chart.co.jp/subject/rika/rika_scnet.html) 数研出版サイエンスネット 2018年9月号
+- [クラウドファンディングを活用した高エネルギー大気物理の研究](https://www.jsap.or.jp/ap/2018/09/index.html) 応用物理学会機関紙「応用物理」2018年9月号
+- [雷による光核反応の発見](https://www.jrias.or.jp/books/cat3/2018/758.html) アイソトープ協会 Isotope News "Tracer"欄
+- [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html) ISAS ニュース 2018年6月号 宇宙科学最前線
 
 
 ## 取材記事
