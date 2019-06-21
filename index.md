@@ -55,10 +55,9 @@
 - [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)　ISAS ニュース 2018年6月号 宇宙科学最前線
 
 
-## 報道
+## 取材記事
 
 - [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
-
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
 - [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : 2018/5/1 Academist Journal
