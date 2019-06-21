@@ -11,6 +11,7 @@
 - [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/matplotlib_color_symbol_sheet.jpg)
 - [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf)
 
+
 ## Python サンプルコード
 
 - [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
@@ -28,40 +29,39 @@
 - [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
 - [主著論文リスト (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
 - [全出版論文リスト (A list of all publications)](https://ui.adsabs.harvard.edu/public-libraries/SpXw37veTXyHsPiTYLwHLg)
-
-## プレスリリース
-
-- 2018/05/29 [(プレスリリース)雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 
-- 2017/11/24 [(プレスリリース) 雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html)　
-- 2007/10/5 [(プレスリリース)日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 
-
-## 動画
-
-- 2019/6/20 [(雷雲プロジェクト)【雷から反物質】若手研究者が挑む！カミナリ研究の最前線](https://www.youtube.com/watch?v=ZgQLdRz2pBE) :  公開 ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8))
-- 2018/04/24 [(雷雲プロジェクト) KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) 
-- 2017/10/11 [(TEDxKyotoUniversity) Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017
-- 2015/08/17 [(雷雲プロジェクト) カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16)
-
-
-## GROWTH/雷雲プロジェクト
-
-
-- [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
-- [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
-- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : 2018/5/1 Academist Journal
 - [雷雲プロジェクト](https://thdr.info)
 
 
-## 中性子星の研究
+## プレスリリース
 
-- [宇宙科学最前線: 中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)
+- 2018/05/29 [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか
+- 2017/11/24 [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか
+- 2007/10/5 [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか
 
 
-## ウェブ記事
+## 動画
+
+- 2019/6/20 [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線](https://www.youtube.com/watch?v=ZgQLdRz2pBE) :  公開 ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) 雷雲プロジェクト紹介動画
+- 2018/04/24 [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express
+- 2017/10/11 [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017
+- 2015/08/17 [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist 
+
+## 画像・イラスト
+
+- [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
+
+## 解説記事
+
+- [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html)　ISAS ニュース 2018年6月号 宇宙科学最前線
+
+
+## 報道
+
+- [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
 
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
-
+- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : 2018/5/1 Academist Journal
 
 ## 有用なリンク
 
