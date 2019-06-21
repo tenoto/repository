@@ -78,13 +78,17 @@
 - [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
 - [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
 
-### 銀河系 (Galaxy)
+### - 銀河系 (Galaxy)
 - [Dark Clouds World](http://darkclouds.u-gakugei.ac.jp/index.html)
 
-### 超新星 (Supernovae)
+### - 超新星 (Supernovae)
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
+- [The Open Supernovae Catalog](https://sne.space/): スペクトルと光度曲線の統合アーカイブを目指している
+- [Carnegie Supernovae Project ||](http://csp2.lco.cl/hsiao/): Ia型で良く使われるテンプレート
+- [Peter Nugent's Spectral Templates](https://c3.lbl.gov/nugent/nugent_templates.html):Ia中心で、他のタイプのテンプレートも一応カバー
+- [The CfA Supernova Data Archive](https://www.cfa.harvard.edu/supernova/SNarchive.html): 個々の超新星の光度曲線データ
 
-### 超新星残骸 (Supernovae Remnant)
+### - 超新星残骸 (Supernovae Remnant)
 - [A Catalogue of Galactic Supernova Remnants: Documentation (Green Catalog)](http://www.mrao.cam.ac.uk/projects/surveys/snrs/snrs.info.html)
 - [Chandra Supernova Remnant Catalog](http://hea-www.cfa.harvard.edu/ChandraSNR/)
 
