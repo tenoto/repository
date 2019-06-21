@@ -60,9 +60,10 @@
 - [クラウドファンディングを活用した高エネルギー大気物理の研究](https://www.jsap.or.jp/ap/2018/09/index.html) 応用物理学会機関紙「応用物理」2018年9月号
 - [雷による光核反応の発見](https://www.jrias.or.jp/books/cat3/2018/758.html) アイソトープ協会 Isotope News "Tracer"欄
 - [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html) ISAS ニュース 2018年6月号 宇宙科学最前線
+- [宇宙最強の磁石星: マグネター観測で垣間見る極限物理](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2015/2015_08/1508_cont.html)　物理科学月刊誌パリティ 2015年8月号
+- [ふり返れば「坂の上の雲」,ではダメである](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/doctor/13-1.html) 東京大学理学部ニュース 2014年1月号45巻5号 世界に羽ばたく理学博士（第13回) 
 
-
-## 取材記事
+## 取材記録
 
 - [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
