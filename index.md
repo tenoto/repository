@@ -35,6 +35,7 @@
 ## プレスリリース
 
 - 2018/05/29 [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか
+	+ [画像セット](https://www.dropbox.com/s/6kcil3fvi18wxoo/figures_distribution.zip?dl=0)
 - 2017/11/24 [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか
 - 2007/10/5 [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか
 
