@@ -35,8 +35,9 @@
 ## プレスリリース
 
 - 2019/06/XX [TBD]()
-	+ [画像セット](https://www.dropbox.com/s/6kcil3fvi18wxoo/figures_distribution.zip?dl=0)
+	+ プレスキット: [イラスト写真セット](https://www.dropbox.com/s/6kcil3fvi18wxoo/figures_distribution.zip?dl=0)
 - 2018/05/29 [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか
+	+ プレスキット: 
 - 2017/11/24 [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか
 	+ プレスキット: [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
 - 2007/10/5 [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか
@@ -51,23 +52,23 @@
 
 ## 解説記事
 
-- [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf) 日本物理学会誌 2019年4月号 交流
-- [雷が引き起こす大気中核反応で陽電子生成](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2018/2018_10/1810_cont.html)　物理科学月刊誌パリティ 2018年10月号
+- [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf) 日本物理学会誌 2019年4月号 交流 (2019)
+- [雷が引き起こす大気中核反応で陽電子生成](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2018/2018_10/1810_cont.html)　物理科学月刊誌パリティ 2018年10月号 (2018)
 - [雷の光が原子核の反応を引き起こす!?](https://www.chart.co.jp/subject/rika/rika_scnet.html) 数研出版サイエンスネット 2018年9月号
-- [クラウドファンディングを活用した高エネルギー大気物理の研究](https://www.jsap.or.jp/ap/2018/09/index.html) 応用物理学会機関紙「応用物理」2018年9月号
-- [雷による光核反応の発見](https://www.jrias.or.jp/books/cat3/2018/758.html) アイソトープ協会 Isotope News "Tracer"欄
-- [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html) ISAS ニュース 2018年6月号 宇宙科学最前線
-- [宇宙最強の磁石星: マグネター観測で垣間見る極限物理](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2015/2015_08/1508_cont.html)　物理科学月刊誌パリティ 2015年8月号
-- [ふり返れば「坂の上の雲」,ではダメである](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/doctor/13-1.html) 東京大学理学部ニュース 2014年1月号45巻5号 世界に羽ばたく理学博士（第13回) 
-- [硬Ｘ線によるマグネター研究の進展 --宇宙で最強の磁石星?--](http://www.asj.or.jp/geppou/archive_open/2012_105_07/105_431.pdf) 日本天文学会誌 天文月報 vol.7, 431-440
-- [雷雲は天然の粒子加速器か?](http://www.asj.or.jp/geppou/archive_open/2008_101_11/101_667.pdf) 日本天文学会誌 天文月報 vol.101, 667-676
+- [クラウドファンディングを活用した高エネルギー大気物理の研究](https://www.jsap.or.jp/ap/2018/09/index.html) 応用物理学会機関紙「応用物理」2018年9月号 (2018)
+- [雷による光核反応の発見](https://www.jrias.or.jp/books/cat3/2018/758.html) アイソトープ協会 Isotope News 2018年8月号 No.758　"Tracer"　(2018)
+- [中性子星の織りなす物理の魅力](http://www.isas.jaxa.jp/feature/forefront/180618.html) ISAS ニュース 2018年6月号 宇宙科学最前線 (2018)
+- [宇宙最強の磁石星: マグネター観測で垣間見る極限物理](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2015/2015_08/1508_cont.html)　物理科学月刊誌パリティ 2015年8月号 (2015)
+- [ふり返れば「坂の上の雲」,ではダメである](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/doctor/13-1.html) 東京大学理学部ニュース 2014年1月号45巻5号 世界に羽ばたく理学博士（第13回) (2014)
+- [硬Ｘ線によるマグネター研究の進展 --宇宙で最強の磁石星?--](http://www.asj.or.jp/geppou/archive_open/2012_105_07/105_431.pdf) 日本天文学会誌 天文月報 vol.7, 431-440 (2012)
+- [雷雲は天然の粒子加速器か?](http://www.asj.or.jp/geppou/archive_open/2008_101_11/101_667.pdf) 日本天文学会誌 天文月報 vol.101, 667-676 (2008)
 
 ## 取材記録
 
 - [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
-- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : 2018/5/1 Academist Journal
+- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : Academist Journal　2018/5/1 
 
 ## 有用なリンク
 
@@ -81,6 +82,8 @@
 - [Particle Data Group](http://pdg.lbl.gov)
 
 ## 天文学データベース
+
+### - 全般
 
 - [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
 - [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
