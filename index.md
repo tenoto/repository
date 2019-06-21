@@ -45,7 +45,7 @@
 
 ## 動画
 
-- 2019/6/20 [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線](https://www.youtube.com/watch?v=ZgQLdRz2pBE) :  公開 ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) 雷雲プロジェクト紹介動画
+- 2019/6/20 [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線 短尺版](https://www.youtube.com/watch?v=ZgQLdRz2pBE) ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) 雷雲プロジェクト紹介動画
 - 2018/04/24 [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express
 - 2017/10/11 [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017
 - 2015/08/17 [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist 
