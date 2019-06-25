@@ -34,21 +34,21 @@
 
 ## プレスリリース
 
-- [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る]() 2019/06/26
+- [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る]() 東京大学ほか, 2019/06/26 
 	+ プレスキット: [イラスト等写真セット](https://drive.google.com/drive/folders/1NhAVvwNVqEAybmYYkvpvimWQFJD40npy)
-- 2018/05/29 [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか
+- [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか, 2018/05/29 
 	+ プレスキット: 
-- 2017/11/24 [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか
+- [雷が反物質の雲をつくる －雷の原子核反応を陽電子と中性子で解明－](http://www.kyoto-u.ac.jp/ja/research/research_results/2017/171123_1.html) 京都大学ほか, 2017/11/24 
 	+ プレスキット: [光核反応の模式図 (2.54 MB)](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_J.jpg) ([Photonuclear reaction schematic illustration, English version, 2.57 MB](https://github.com/tenoto/repository/blob/master/growth/photonuclear_reaction_press_release_ill_E.jpg))
-- 2007/10/5 [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか
+- [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか, 2007/10/5
 
 
 ## 動画
 
-- 2019/6/20 [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線 短尺版](https://www.youtube.com/watch?v=ZgQLdRz2pBE) ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) ([Engish version](https://www.youtube.com/watch?v=ItuR0HOehqk))雷雲プロジェクト紹介動画
-- 2018/04/24 [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express
-- 2017/10/11 [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017
-- 2015/08/17 [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist 
+- [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線 短尺版](https://www.youtube.com/watch?v=ZgQLdRz2pBE) ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) ([Engish version](https://www.youtube.com/watch?v=ItuR0HOehqk)) 雷雲プロジェクト紹介動画, 2019/6/20 
+- [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express, 2018/04/24 
+- [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017, 2017/10/11 
+- [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist, 2015/08/17
 
 ## 解説記事
 
