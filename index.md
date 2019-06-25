@@ -7,16 +7,19 @@
 - [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190619j.pdf)
 - [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf)
 - [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf) : 大学院生時代に書いた統計解析のメモ
-- [QDP/PLT Color and Line Style Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/qdp_color_code.png)
-- [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/matplotlib_color_symbol_sheet.jpg)
-- [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf)
+
+
+
+## 講義資料
+
+- [Python を使った統計データの処理](https://colab.research.google.com/drive/1ZlFYDZgSdGSo4iLuoe1dfqzcU4_KEwGw) [作成中]
 
 
 ## Python サンプルコード
 
 - [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
 - [NICER ObsID Quick Look](https://colab.research.google.com/drive/1KXE_wwETFKiQiOb1x-HPKWsMaUKZQe1l) : NICER の ObsID データを Quick Look するプログラム
-- [Python を使った統計データの処理](https://colab.research.google.com/drive/1ZlFYDZgSdGSo4iLuoe1dfqzcU4_KEwGw) [作成中]
+
 
 
 ## 研究歴
@@ -32,6 +35,7 @@
 - [雷雲プロジェクト](https://thdr.info)
 
 
+
 ## プレスリリース
 
 - [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る]() 東京大学ほか, 2019/06/26 
@@ -43,12 +47,15 @@
 - [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか, 2007/10/5
 
 
+
 ## 動画
 
 - [【雷から反物質】若手研究者が挑む！カミナリ研究の最前線 短尺版](https://www.youtube.com/watch?v=ZgQLdRz2pBE) ([長尺版](https://www.youtube.com/watch?v=kWh6Jae1Hh8)) ([Engish version](https://www.youtube.com/watch?v=ItuR0HOehqk)) 雷雲プロジェクト紹介動画, 2019/6/20 
 - [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express, 2018/04/24 
 - [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017, 2017/10/11 
 - [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist, 2015/08/17
+
+
 
 ## 解説記事
 
@@ -63,6 +70,8 @@
 - [硬Ｘ線によるマグネター研究の進展 --宇宙で最強の磁石星?--](http://www.asj.or.jp/geppou/archive_open/2012_105_07/105_431.pdf) 日本天文学会誌 天文月報 vol.7, 431-440 (2012)
 - [雷雲は天然の粒子加速器か?](http://www.asj.or.jp/geppou/archive_open/2008_101_11/101_667.pdf) 日本天文学会誌 天文月報 vol.101, 667-676 (2008)
 
+
+
 ## 取材記録
 
 - [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
@@ -70,16 +79,31 @@
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
 - [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : Academist Journal　2018/5/1 
 
+
+
+
+## TIPS
+
+- [QDP/PLT Color and Line Style Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/qdp_color_code.png)
+- [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/matplotlib_color_symbol_sheet.jpg)
+- [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf)
+
+
+
 ## 有用なリンク
 
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) : 国をまたいだ会議時間の設定に便利
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
 - [Rainy Cafe](http://rainycafe.com) : 雨音を聞いて集中しましょう
 
+
+
 ## 物理学データベース
 
 - [X-ray Data Booklet](http://xdb.lbl.gov)
 - [Particle Data Group](http://pdg.lbl.gov)
+
+
 
 ## 天文学データベース
 
@@ -102,10 +126,14 @@
 - [A Catalogue of Galactic Supernova Remnants: Documentation (Green Catalog)](http://www.mrao.cam.ac.uk/projects/surveys/snrs/snrs.info.html)
 - [Chandra Supernova Remnant Catalog](http://hea-www.cfa.harvard.edu/ChandraSNR/)
 
+
+
 ## ウェブ教科書
 
 - [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu)
 - [The Course of Theoretical Physics by Landau and Lifshitz](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22)
+
+
 
 ## 解析ソフトウェア
 
