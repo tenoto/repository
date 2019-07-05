@@ -13,8 +13,6 @@
 ## 講義資料
 
 - [Python を使ったデータ解析](https://drive.google.com/open?id=1zDipM-m9VQfsJQhrtCO7Q0GMR-kn90Q6) [作成中]
-- [Python を使った統計データの処理](https://colab.research.google.com/drive/1ZlFYDZgSdGSo4iLuoe1dfqzcU4_KEwGw) [作成中]
-
 
 ## Python サンプルコード
 
