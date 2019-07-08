@@ -1,6 +1,6 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚が [GitHub](https://github.com/tenoto/repository) に置いている資料の一覧や関係するリンクを記載しています。
+このページには、榎戸輝揚([履歴書(日本語CV)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190709.pdf)が [GitHub Repository](https://github.com/tenoto/repository) として置いている資料の一覧や関係するリンクを記載しています。
 
 ## 公開資料
 
@@ -25,7 +25,6 @@
 
 ## 研究歴
 
-- [榎戸輝揚の履歴書(日本語)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190429.pdf)
 - [ORCID](https://orcid.org/0000-0003-1244-3100)
 - [GitHub](https://github.com/tenoto)
 - [Researchmap](https://researchmap.jp/teruaki_enoto/?lang=japanese)
