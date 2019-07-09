@@ -1,6 +1,6 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚([履歴書(日本語CV)](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190709.pdf)が [GitHub Repository](https://github.com/tenoto/repository) として置いている資料の一覧や関係するリンクを記載しています。
+このページには、榎戸輝揚[[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190709.pdf)]の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
 
 ## 公開資料
 
@@ -89,12 +89,7 @@
 - [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf): 論文誌の推奨フォーマット
 
 
-
-## 有用なリンク
-
-- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) : 国をまたいだ会議時間の設定に便利
-- [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
-- [Rainy Cafe](http://rainycafe.com) : 雨音を聞いて集中しましょう
+# リンク集
 
 
 
@@ -182,6 +177,13 @@
 - [Plot Digitizer](http://plotdigitizer.sourceforge.net)
 - [Emmanoulopoulos Lightcurve Simulation](https://github.com/samconnolly/DELightcurveSimulation)
 - [HENDRICS and stingray](https://github.com/StingraySoftware) : 時刻解析やスペクトル解析に使える Bacheeti さんのコード
+
+## その他
+
+- [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) : 国をまたいだ会議時間の設定に便利
+- [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
+- [Rainy Cafe](http://rainycafe.com) : 雨音を聞いて集中しましょう
+
 
 
 
