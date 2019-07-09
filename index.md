@@ -38,7 +38,7 @@
 
 ## プレスリリース
 
-- [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る]() 東京大学ほか, 2019/06/26 
+- [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る](https://www.s.u-tokyo.ac.jp/ja/press/2019/6437/) 東京大学ほか, 2019/06/26 
 	+ プレスキット: [イラスト等写真セット](https://drive.google.com/drive/folders/1NhAVvwNVqEAybmYYkvpvimWQFJD40npy)
 - [雷雲に隠れた天然の加速器を雷が破壊する瞬間を捉えた －放射線・大気電場・電波による高エネルギー大気現象の観測－](http://www.kyoto-u.ac.jp/ja/research/research_results/2018/180517_2.html) 京都大学ほか, 2018/05/29 
 	+ プレスキット: 
@@ -77,8 +77,8 @@
 - [雷の解明を市民と　榎戸（36）に見る科学新潮流](https://www.nikkei.com/article/DGXMZO41349220V10C19A2000000/) : 2019/2/24　日本経済新聞
 - [ナイスステップな研究者から見た変化の新潮流:京都大学 白眉センター 榎戸 輝揚 特定准教授インタビュー－市民と連携するオープンサイエンスが切り拓く
 新しい研究スタイル－](http://www.nistep.go.jp/activities/sti-horizon誌/vol-05no-01/stih00161) : STI Horizon, Vol.5, No.1, 2019.02.25
-- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376) : Academist Journal　2018/5/1 
-
+- [若手が活躍できるチーム作りの秘訣とは？ – 雷雲プロジェクトから見えてくる、新しい研究スタイル](https://academist-cf.com/journal/?p=7376): Academist Journal　2018/5/1 
+- [星の死後にできた中性子星の謎とは？ – 雷雲プロジェクトの立役者、京大・榎戸輝揚特定准教授に聞く](https://academist-cf.com/journal/?p=6527): Academist Journal 2017/11/24
 
 
 
@@ -86,7 +86,7 @@
 
 - [QDP/PLT Color and Line Style Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/qdp_color_code.png)
 - [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/matplotlib_color_symbol_sheet.jpg)
-- [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf)
+- [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf): 論文誌の推奨フォーマット
 
 
 
@@ -102,6 +102,9 @@
 
 - [X-ray Data Booklet](http://xdb.lbl.gov)
 - [Particle Data Group](http://pdg.lbl.gov)
+- [NIST Physical Reference Data](https://www.nist.gov/pml/productsservices/physical-reference-data)
+- [NIST X-ray Transition Energies Database](https://physics.nist.gov/PhysRefData/XrayTrans/Html/search.html)
+- [Periodic Table](https://periodictable.com/index.html)
 
 
 
@@ -112,8 +115,19 @@
 - [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
 - [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
 
+### 全天データアーカイブ
+- [ESASky](https://sky.esa.int): 天体画像と重ねてデータが存在するかを教えてくれる
+- [JUDO2 (DARTS/ISAS/JAXA)](http://darts.isas.jaxa.jp/astro/judo2/)
+- [http://aladin.u-strasbg.fr/AladinLite/](http://aladin.u-strasbg.fr/AladinLite/)
+- [SMOKA](https://smoka.nao.ac.jp)
+- [The XMM-Newton Slew Survey Source CAtalog](https://www.cosmos.esa.int/web/xmm-newton/xmmsl2-ug)
+
 ### - 銀河系 (Galaxy)
-- [Dark Clouds World](http://darkclouds.u-gakugei.ac.jp/index.html)
+- [The ROSAT X-Ray All-Sky Survey](http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey/)
+- [Dark Clouds World (Tokyo Gakugei University)](http://darkclouds.u-gakugei.ac.jp/index.html)
+- [Hi Profile Search](https://www.astro.uni-bonn.de/hisurvey/profile/)
+- [Milky Way in Molecular Clouds: A New Complete CO Survey](https://www.cfa.harvard.edu/mmw/MilkyWayinMolClouds.html)
+- [Galactic Legacy Infrared Midplane Survey Extraordinaire (GLIMPSE)](https://irsa.ipac.caltech.edu/data/SPITZER/GLIMPSE/)
 
 ### - 超新星 (Supernovae)
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
@@ -121,18 +135,45 @@
 - [Carnegie Supernovae Project 2](http://csp2.lco.cl/hsiao/): Ia型で良く使われるテンプレート
 - [Peter Nugent's Spectral Templates](https://c3.lbl.gov/nugent/nugent_templates.html):Ia中心で、他のタイプのテンプレートも一応カバー
 - [The CfA Supernova Data Archive](https://www.cfa.harvard.edu/supernova/SNarchive.html): 個々の超新星の光度曲線データ
+- [List of Supernovae (IAU)](http://www.cbat.eps.harvard.edu/lists/Supernovae.html)
+- [Asiago Supernova Catalog](https://heasarc.gsfc.nasa.gov/w3browse/all/asiagosn.html)
 
 ### - 超新星残骸 (Supernovae Remnant)
 - [A Catalogue of Galactic Supernova Remnants: Documentation (Green Catalog)](http://www.mrao.cam.ac.uk/projects/surveys/snrs/snrs.info.html)
-- [Chandra Supernova Remnant Catalog](http://hea-www.cfa.harvard.edu/ChandraSNR/)
+- [Chandra Supernova Remnant Catalog (SAO)](http://hea-www.cfa.harvard.edu/ChandraSNR/)
+- [Online high-energy catalogue of SNRs (the University of Manitoba)](http://snrcat.physics.umanitoba.ca)
+- [The TeGeV Catalogue (SSDC)](http://www.asdc.asi.it/tgevcat/)
+
+### - 中性子星 (Neutron star)
+- [McGill Online Magnetar Catalog](http://www.physics.mcgill.ca/~pulsar/magnetar/main.html)
+- [The Pulsar Wind Nebula Catalog (McGill Pulsar Group)](http://www.physics.mcgill.ca/~pulsar/pwncat.html)
+- [GBM Accreting Pulsar Histories](https://gammaray.nsstc.nasa.gov/gbm/science/pulsars.html)
+- [ATNF Pulsar Catalog](http://www.atnf.csiro.au/people/pulsar/psrcat/)
+- [FRB Catalog](http://frbcat.org)
+- [The RRATalog](http://astro.phys.wvu.edu/rratalog/)
+- [Isolated Neutron Stars (Vigano et al 2013)](http://www.neutronstarcooling.info)
+
+### - 白色矮星 (White dwarf)
+- [The Catalog and Atlas of Cataclysmic Variables](https://archive.stsci.edu/prepds/cvcat/)
+
+### - ブラックホール (Black hole)
+- [Veron Catalog of Quasars & AGN, 13th Edition](https://heasarc.gsfc.nasa.gov/W3Browse/all/veroncat.html)
+
+### その他の高エネルギー天体カタログ
+- [X-ray Binaries Catalogue](http://www.xrbc.org)
+- [The H.E.S.S. Source Catalog](https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/sources/)
 
 
+## 宇宙観測用の人工衛星
+
+### XMM-Newton
+- [XMM-Newton Users Handbook S3.3.2 Science modes of the EPIC cameras](https://heasarc.gsfc.nasa.gov/docs/xmm/uhb/epicmode.html): EPIC のカメラモードの確認
 
 ## ウェブ教科書
 
-- [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu)
-- [The Course of Theoretical Physics by Landau and Lifshitz](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22)
-
+- [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu): ファインマンレクチャー
+- [The Course of Theoretical Physics by Landau and Lifshitz](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22): ランダウ物理学教程
+- [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/loi/astro)
 
 
 ## 解析ソフトウェア
