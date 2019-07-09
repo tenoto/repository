@@ -110,7 +110,7 @@
 - [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
 - [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
 
-### 全天データアーカイブ
+### - 全天データアーカイブ
 - [ESASky](https://sky.esa.int): 天体画像と重ねてデータが存在するかを教えてくれる
 - [JUDO2 (DARTS/ISAS/JAXA)](http://darts.isas.jaxa.jp/astro/judo2/)
 - [http://aladin.u-strasbg.fr/AladinLite/](http://aladin.u-strasbg.fr/AladinLite/)
@@ -154,14 +154,14 @@
 ### - ブラックホール (Black hole)
 - [Veron Catalog of Quasars & AGN, 13th Edition](https://heasarc.gsfc.nasa.gov/W3Browse/all/veroncat.html)
 
-### その他の高エネルギー天体カタログ
+### - その他の高エネルギー天体カタログ
 - [X-ray Binaries Catalogue](http://www.xrbc.org)
 - [The H.E.S.S. Source Catalog](https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/sources/)
 
 
 ## 宇宙観測用の人工衛星
 
-### XMM-Newton
+### - XMM-Newton
 - [XMM-Newton Users Handbook S3.3.2 Science modes of the EPIC cameras](https://heasarc.gsfc.nasa.gov/docs/xmm/uhb/epicmode.html): EPIC のカメラモードの確認
 
 ## ウェブ教科書
