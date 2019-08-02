@@ -22,7 +22,7 @@
 - [NICER ObsID Quick Look](https://colab.research.google.com/drive/1KXE_wwETFKiQiOb1x-HPKWsMaUKZQe1l) : NICER の ObsID データを Quick Look するプログラム
 - [Mass distribution of compact objects](https://colab.research.google.com/drive/1r89wO3igcsoKXUfirYXvHygcvEukXLkS#scrollTo=DgkH3DFapTyD) : コンパクト天体（中性子星、ブラックホール）の質量分布を描くコード
 - [ポータブル放射線測定器による航空機測定](https://colab.research.google.com/drive/1rrtAJn3cMeZDub3sWCU5435cYFYB--5j) : GROWTH-TAC-DAQ による宇宙線測定の Quick Look 解析（もう少し整備したい）
-
+- [ブラックホール重力場の有効ポテンシャル](https://colab.research.google.com/drive/1OU7boMZnno7JQw09yeY3ZLluBCZrv6wL) : 2019年の数理の翼セミナーでの高校生向けのプロット
 
 
 ## 研究歴
