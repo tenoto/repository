@@ -94,9 +94,13 @@
 - [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf): 論文誌の推奨フォーマット
 
 
+## 論文で作成した図（サンプル集）
+
+- [ブラックホール候補天体 Swift J1728.9-3613 のＸ線ライトカーブ]
+
+* * * 
+
 # リンク集
-
-
 
 ## 物理学データベース
 
