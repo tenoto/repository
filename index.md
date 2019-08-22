@@ -96,7 +96,7 @@
 
 ## 論文で作成した図（サンプル集）
 
-- [ブラックホール候補天体 Swift J1728.9-3613 のＸ線ライトカーブ]
+- [ブラックホール候補天体 Swift J1728.9-3613 のＸ線ライトカーブ](https://colab.research.google.com/drive/1fkv5hZ5IVxowAn9SpIeQtpUijDrDiGEy)
 
 * * * 
 
