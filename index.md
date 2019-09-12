@@ -96,7 +96,10 @@
 
 ## 論文で作成した図（サンプル集）
 
-- [ブラックホール候補天体 Swift J1728.9-3613 のＸ線ライトカーブ](https://colab.research.google.com/drive/1fkv5hZ5IVxowAn9SpIeQtpUijDrDiGEy)
+- ブラックホール候補天体 Swift J1728.9-3613
+	+ [ブラックホール候補天体 Swift J1728.9-3613 のＸ線ライトカーブ](https://colab.research.google.com/drive/1fkv5hZ5IVxowAn9SpIeQtpUijDrDiGEy)
+- かにパルサー
+	+ [Growth curve of X-ray enhancement at the Crab GRP](https://colab.research.google.com/drive/1m0VAxNREeAf69fdi_McBYRMqzXxUdQyi)
 
 * * * 
 
