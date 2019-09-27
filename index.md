@@ -8,11 +8,6 @@
 - [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf) : Hitomi 衛星に向けて作成していたＸ線解析の資料集
 - [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf) : 大学院生時代に書いた統計解析のメモ
 
-## 最近の研究論文
-
-- Enoto, Ksaka, and Shibata et al. ["Observational diversity of magnetarized neutron stars"](https://iopscience.iop.org/article/10.1088/1361-6633/ab3def), Reports on Progress in Physics (2019)
-
-
 
 ## 講義資料
 
@@ -55,6 +50,11 @@
 - [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか, 2007/10/5
 
 
+## 最近の研究論文
+
+- Enoto, Ksaka, and Shibata, ["Observational diversity of magnetarized neutron stars"](https://iopscience.iop.org/article/10.1088/1361-6633/ab3def), Reports on Progress in Physics, Volume 82, 10, 106901 (2019)
+- Enoto, Wada, et al., ["Photonuclear reactions triggered by lightning discharge"](https://www.nature.com/articles/nature24630), Nature, Volume 551, 481 (2017)
+- Enoto et al., ["Magnetar Broadband X-Ray Spectra Correlated with Magnetic Fields: Suzaku Archive of SSGRs and AXPs Combined with NuSTAR, Swift, and RXTE"](https://iopscience.iop.org/article/10.3847/1538-4365/aa6f0a), The Astrophysical Journal Supplement Series, Volume 231, 1, 8 (2017)
 
 ## 動画
 
