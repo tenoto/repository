@@ -1,12 +1,16 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚[[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190709.pdf)]の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
+このページには、榎戸輝揚 [[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v190709.pdf)] の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
 
 ## 公開資料
 
-- [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf)
-- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf)
+- [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf) : 特注実験ノートの見開きに使用しているチートシート
+- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf) : Hitomi 衛星に向けて作成していたＸ線解析の資料集
 - [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf) : 大学院生時代に書いた統計解析のメモ
+
+## 最近の研究論文
+
+- Enoto, Ksaka, and Shibata et al. ["Observational diversity of magnetarized neutron stars"](https://iopscience.iop.org/article/10.1088/1361-6633/ab3def), Reports on Progress in Physics (2019)
 
 
 
@@ -22,9 +26,9 @@
 - [NICER ObsID Quick Look](https://colab.research.google.com/drive/1KXE_wwETFKiQiOb1x-HPKWsMaUKZQe1l) : NICER の ObsID データを Quick Look するプログラム
 - [Mass distribution of compact objects](https://colab.research.google.com/drive/1r89wO3igcsoKXUfirYXvHygcvEukXLkS#scrollTo=DgkH3DFapTyD) : コンパクト天体（中性子星、ブラックホール）の質量分布を描くコード
 - [ポータブル放射線測定器による航空機測定](https://colab.research.google.com/drive/1rrtAJn3cMeZDub3sWCU5435cYFYB--5j) : GROWTH-TAC-DAQ による宇宙線測定の Quick Look 解析（もう少し整備したい）
-- [ポータブル中性子検出器の解析](https://colab.research.google.com/drive/1owVBuPOYKHoBS5R--ukFHGI5OokG8JqW)
-- [ブラックホール重力場の有効ポテンシャル](https://colab.research.google.com/drive/1OU7boMZnno7JQw09yeY3ZLluBCZrv6wL) : 2019年の数理の翼セミナーでの高校生向けのプロット
-- [連星の軌道運動のプロット](https://colab.research.google.com/drive/1f8rC9biqTyt0oLvKHe_g8HWrfc4h_WNY)
+- [ポータブル中性子検出器の解析](https://colab.research.google.com/drive/1owVBuPOYKHoBS5R--ukFHGI5OokG8JqW) [作成中]
+- [ブラックホール重力場の有効ポテンシャル](https://colab.research.google.com/drive/1OU7boMZnno7JQw09yeY3ZLluBCZrv6wL) : 2019年の数理の翼セミナーでの高校生向けのプロット [作成中]
+- [連星の軌道運動のプロット](https://colab.research.google.com/drive/1f8rC9biqTyt0oLvKHe_g8HWrfc4h_WNY) [作成中]
 
 
 ## 研究歴
@@ -63,6 +67,7 @@
 
 ## 解説記事
 
+- [Positron Annihiliation in Thunderstorms](https://www.tandfonline.com/doi/full/10.1080/10619127.2019.1642716) Nuclear Physics News, Volumne 29, Issue 3 (2019) [英語]
 - [雷放電が拓く高エネルギー大気物理学](https://www.jps.or.jp/books/gakkaishi/2019/04/74-04interdisciplinary1.pdf) 日本物理学会誌 2019年4月号 交流 (2019)
 - [雷が引き起こす大気中核反応で陽電子生成](http://pub.maruzen.co.jp/book_magazine/magazine/parity-back/parity2018/2018_10/1810_cont.html)　物理科学月刊誌パリティ 2018年10月号 (2018)
 - [雷の光が原子核の反応を引き起こす!?](https://www.chart.co.jp/subject/rika/rika_scnet.html) 数研出版サイエンスネット 2018年9月号 (2018)
