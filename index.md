@@ -118,6 +118,7 @@
 - [Particle Data Group](http://pdg.lbl.gov)
 - [NIST Physical Reference Data](https://www.nist.gov/pml/productsservices/physical-reference-data)
 - [NIST X-ray Transition Energies Database](https://physics.nist.gov/PhysRefData/XrayTrans/Html/search.html)
+- [NIST XCOM: Element/Compound/Mixture](https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html)
 - [Periodic Table](https://periodictable.com/index.html)
 
 
