@@ -20,7 +20,7 @@
 - [P-Pdot Diagram](https://colab.research.google.com/drive/1hrA6KDAILf1IJT9NinFYlR6X9iskG_td) : Google Colaboratory で P-Pdot 図を描くコード
 - [NICER ObsID Quick Look](https://colab.research.google.com/drive/1KXE_wwETFKiQiOb1x-HPKWsMaUKZQe1l) : NICER の ObsID データを Quick Look するプログラム
 - [Mass distribution of compact objects](https://colab.research.google.com/drive/1r89wO3igcsoKXUfirYXvHygcvEukXLkS#scrollTo=DgkH3DFapTyD) : コンパクト天体（中性子星、ブラックホール）の質量分布を描くコード
-- [ポータブル放射線測定器による航空機測定](https://colab.research.google.com/drive/1rrtAJn3cMeZDub3sWCU5435cYFYB--5j) : GROWTH-TAC-DAQ による宇宙線測定の Quick Look 解析（もう少し整備したい）
+- [ポータブル放射線測定器による航空機測定](https://colab.research.google.com/drive/1rrtAJn3cMeZDub3sWCU5435cYFYB--5j) : GROWTH-TAC-DAQ による宇宙線測定の Quick Look 解析
 - [ポータブル中性子検出器の解析](https://colab.research.google.com/drive/1owVBuPOYKHoBS5R--ukFHGI5OokG8JqW) [作成中]
 - [ブラックホール重力場の有効ポテンシャル](https://colab.research.google.com/drive/1OU7boMZnno7JQw09yeY3ZLluBCZrv6wL) : 2019年の数理の翼セミナーでの高校生向けのプロット [作成中]
 - [連星の軌道運動のプロット](https://colab.research.google.com/drive/1f8rC9biqTyt0oLvKHe_g8HWrfc4h_WNY) [作成中]
