@@ -24,6 +24,7 @@
 - [ポータブル中性子検出器の解析](https://colab.research.google.com/drive/1owVBuPOYKHoBS5R--ukFHGI5OokG8JqW) [作成中]
 - [ブラックホール重力場の有効ポテンシャル](https://colab.research.google.com/drive/1OU7boMZnno7JQw09yeY3ZLluBCZrv6wL) : 2019年の数理の翼セミナーでの高校生向けのプロット [作成中]
 - [連星の軌道運動のプロット](https://colab.research.google.com/drive/1f8rC9biqTyt0oLvKHe_g8HWrfc4h_WNY) [作成中]
+- [鉄輝線を考える](https://colab.research.google.com/drive/1-aGu89C3uKYFqYI-aBJh7yfoo97Z_K7d)[作成中]
 
 
 ## 研究歴
