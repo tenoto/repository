@@ -1,6 +1,6 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚 [[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v191118.pdf)] の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
+このページには、榎戸輝揚 [[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v200110.pdf)] の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
 
 ## 公開資料
 
