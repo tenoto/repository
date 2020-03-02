@@ -1,4 +1,4 @@
-![Image description](https://github.com/tenoto/repository/blob/master/ninjasat/embrem/png/ninjasat_embrem-400px.png)
+![NinjaSat Embrem](https://github.com/tenoto/repository/blob/master/ninjasat/embrem/png/ninjasat_embrem-400px.png)
 
 The embrem image for the NinjaSat project was created by Eiri Ono (University of Kyoto) on 2020-03-01. 
 This directory include following files. Currently, usage of these files are assumed to be limited to the NinjaSat team members. If you (outside the team) want to use the following images, please let me (teruaki.enoto at riken.jp) know. 
