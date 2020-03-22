@@ -11,7 +11,7 @@
 
 ## 講義
 
-- [宇宙科学入門：天文学の謎と現代の宇宙像](Short link to this page https://bit.ly/2xc0Owa) 東京大学教養学部前期課程 2020年度 開講学期S1 宇宙科学Ⅰ(文科生)
+- [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 東京大学教養学部前期課程2020年度S1 宇宙科学Ⅰ(文科生)
 - [Python を使った統計データ解析](https://drive.google.com/open?id=1zDipM-m9VQfsJQhrtCO7Q0GMR-kn90Q6) [作成中]
 - [Python を使った周期性探索](https://colab.research.google.com/drive/1d1wgmN1ztx4l9qgaGc39LUhkBmoV_Xz-) [作成中]
 
