@@ -1,4 +1,5 @@
-#ThunderCloudProject Emblem
+![ThunderCloudProject Emblem](growth/emblem/Thundercloud-emblem-regular.png)
+
 
 Desigined by Eiri Ono (Kyoto University) for the GROWTH collaboration on 2020 April 20.
 
