@@ -12,4 +12,4 @@ Desigined by Eiri Ono (Kyoto University) for the GROWTH collaboration on 2020 Ap
 
 - Thundercloud-emblems-200419-書き出し用.ai.pdf : reference for PNG and JPG export (original fille by Eiri)
 
-![CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
