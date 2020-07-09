@@ -1,12 +1,13 @@
 # 榎戸輝揚の公開資料リポジトリ
 
-このページには、榎戸輝揚 [[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v200403.pdf)] の資料と個人用のリンク集を [GitHub Repository](https://github.com/tenoto/repository) 上に置いているものです。
+このページには、榎戸輝揚 [[履歴書-日本語CV](https://github.com/tenoto/repository/blob/master/docs/enoto_cv_japanese_v200403.pdf)] の資料とリンク集を [GitHub Repository](https://github.com/tenoto/repository) として置いているものです。
 
 ## 公開資料
 
-- [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf) : 特注実験ノートの見開きに使用しているチートシート
-- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf) : Hitomi 衛星に向けて作成していたＸ線解析の資料集
-- [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf) : 大学院生時代に書いた統計解析のメモ
+- [榎戸極限自然現象理研白眉研究チームの紹介スライド](https://www.dropbox.com/s/9qhnopuw7pmbgf9/200709_cpr_enotolab_intro.pdf?dl=0): 研究室の活動紹介です。研究室サイトは[こちら](http://enotolab.sakura.ne.jp)。
+- [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf): 特注実験ノートの見開きに使用しているチートシート
+- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf): Hitomi 衛星に向けて作成していたＸ線解析の資料集
+- [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf): 大学院生時代に書いた統計解析のメモ
 
 
 ## 講義
