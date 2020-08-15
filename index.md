@@ -12,7 +12,8 @@
 
 ## 講義
 
-- [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 東京大学教養学部前期課程2020年度S1 宇宙科学Ⅰ(文科生)
+- [高エネルギー宇宙物理学概論](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/HkNgkbHGv) 2020年度冬学期 立教大学・集中講義(大学院生)
+- [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 2020年度S1 東京大学教養学部前期課程・宇宙科学Ⅰ(文科生)
 - [Python を使った統計データ解析](https://drive.google.com/open?id=1zDipM-m9VQfsJQhrtCO7Q0GMR-kn90Q6) [作成中]
 - [Python を使った周期性探索](https://colab.research.google.com/drive/1d1wgmN1ztx4l9qgaGc39LUhkBmoV_Xz-) [作成中]
 
