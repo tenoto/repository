@@ -1,14 +1,8 @@
-# 榎戸輝揚の公開資料リポジトリ
+# 榎戸輝揚の研究資料リポジトリ (公開版)
 
-このページには、榎戸輝揚 [[履歴書-日本語CV](https://www.dropbox.com/s/irup6ius3ui5vk8/enoto_cv_japanese.pdf?dl=0)] の資料とリンク集を [GitHub Repository](https://github.com/tenoto/repository) として置いているものです。
+[![hackmd-github-sync-badge](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ/badge)](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ)
 
-## 公開資料
-
-- [榎戸極限自然現象理研白眉研究チームの紹介スライド](https://www.dropbox.com/s/9qhnopuw7pmbgf9/200709_cpr_enotolab_intro.pdf?dl=0): 研究室の活動紹介です。研究室サイトは[こちら](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/B1vizpKfD)。
-- [私家版-物理定数表 (暫定版)](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf): 特注実験ノートの見開きに使用しているチートシート
-- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf): Hitomi 衛星に向けて作成していたＸ線解析の資料集
-- [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf): 大学院生時代に書いた統計解析のメモ
-
+このページには、榎戸輝揚 [[履歴書-日本語CV](https://www.dropbox.com/s/irup6ius3ui5vk8/enoto_cv_japanese.pdf?dl=0)] の資料とリンク集を [GitHub Repository](https://github.com/tenoto/repository) として置いているものです。(最終更新：2020-08-22)
 
 ## 講義
 
@@ -16,6 +10,27 @@
 - [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 2020年度S1 東京大学教養学部前期課程・宇宙科学Ⅰ(文科生)
 - [Python を使った統計データ解析](https://drive.google.com/open?id=1zDipM-m9VQfsJQhrtCO7Q0GMR-kn90Q6) [作成中]
 - [Python を使った周期性探索](https://colab.research.google.com/drive/1d1wgmN1ztx4l9qgaGc39LUhkBmoV_Xz-) [作成中]
+
+## チュートリアル
+
+- [Python によるデータ解析](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/ryDxCIHGD): Python でのデータ解析のヒント週
+
+## ライブラリ
+- [Hoppy: High-energy Observatory Pipelines via PYthon](https://github.com/tenoto/hoppy): 高エネルギー宇宙物理学のデータ解析での個人的なライブラリ群
+
+## 物理定数表 
+- [物理定数表 pdf](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf): 特注実験ノートの見開きに使用しているチートシート
+![](https://i.imgur.com/yVdl3Wp.jpg)
+![](https://i.imgur.com/OggjDNj.jpg)
+![](https://i.imgur.com/lGLJaXW.jpg)
+![](https://i.imgur.com/PD0Kt0w.jpg)
+
+---
+
+## 公開資料
+- [榎戸極限自然現象理研白眉研究チームの紹介スライド](https://www.dropbox.com/s/9qhnopuw7pmbgf9/200709_cpr_enotolab_intro.pdf?dl=0): 研究室の活動紹介です。研究室サイトは[こちら](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/B1vizpKfD)。
+- [ASTRO-H CookBook version 1.02](https://github.com/tenoto/repository/blob/master/docs/AHCookBook_v1.02.pdf): Hitomi 衛星に向けて作成していたＸ線解析の資料集
+- [実験データの統計解析](https://github.com/tenoto/repository/blob/master/docs/statistics_physics_enoto_100506.pdf): 大学院生時代に書いた統計解析のメモ
 
 
 ## Python サンプルコード
