@@ -1,22 +1,44 @@
-# 榎戸輝揚の研究資料リポジトリ (公開版)
+# 榎戸輝揚の研究資料リポジトリ
 
-[![hackmd-github-sync-badge](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ/badge)](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ)
+[![hackmd-github-sync-badge](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ/badge)](https://hackmd.io/7yNnJkfmSqGKCHjTkrbWQQ) [最終更新: 2020-08-29]
 
-このページには、榎戸輝揚 [[履歴書-日本語CV](https://www.dropbox.com/s/irup6ius3ui5vk8/enoto_cv_japanese.pdf?dl=0)] の資料とリンク集を [GitHub Repository](https://github.com/tenoto/repository) として置いているものです。(最終更新：2020-08-22)
+本ページは [GitHub webpage](https://tenoto.github.io/repository/) と連動し、資料は [GitHub Repository](https://github.com/tenoto/repository) にあります。
 
-## 講義
+
+## :penguin: 研究者情報
+
+- [理化学研究所 榎戸極限自然現象理研白眉研究チーム](https://hackmd.io/@tenoto/B1vizpKfD)
+- [履歴書 (日本語)](https://www.dropbox.com/s/irup6ius3ui5vk8/enoto_cv_japanese.pdf?dl=0)
+- 研究者アカウント: [ORCID](https://orcid.org/0000-0003-1244-3100), [Researchmap](https://researchmap.jp/teruaki_enoto/?lang=japanese), [publons](https://publons.com/author/1432823/teruaki-enoto#profile), [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
+- オンラインツール: [twitter](https://twitter.com/teru_enoto), [GitHub](https://github.com/tenoto)
+- 論文リスト
+    - [論文リスト：主著論文 (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
+    - [論文リスト：全論文 (A list of all publications)](https://ui.adsabs.harvard.edu/public-libraries/SpXw37veTXyHsPiTYLwHLg)
+
+
+## :clapper: 講義
 
 - [高エネルギー宇宙物理学概論](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/HkNgkbHGv) 2020年度冬学期 立教大学・集中講義(大学院生)
-- [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 2020年度S1 東京大学教養学部前期課程・宇宙科学Ⅰ(文科生)
+- [宇宙科学入門：天文学の謎と現代の宇宙像](https://bit.ly/2xc0Owa) 2020年度S1 東京大学教養学部前期課程 宇宙科学Ⅰ(文科生)
 - [Python を使った統計データ解析](https://drive.google.com/open?id=1zDipM-m9VQfsJQhrtCO7Q0GMR-kn90Q6) [作成中]
 - [Python を使った周期性探索](https://colab.research.google.com/drive/1d1wgmN1ztx4l9qgaGc39LUhkBmoV_Xz-) [作成中]
 
+## :page_facing_up: 最近の研究論文
+
+- Enoto, Ksaka, and Shibata, ["Observational diversity of magnetarized neutron stars"](https://iopscience.iop.org/article/10.1088/1361-6633/ab3def), Reports on Progress in Physics, Volume 82, 10, 106901 (2019)
+- Enoto, Wada, et al., ["Photonuclear reactions triggered by lightning discharge"](https://www.nature.com/articles/nature24630), Nature, Volume 551, 481 (2017)
+- Enoto et al., ["Magnetar Broadband X-Ray Spectra Correlated with Magnetic Fields: Suzaku Archive of SSGRs and AXPs Combined with NuSTAR, Swift, and RXTE"](https://iopscience.iop.org/article/10.3847/1538-4365/aa6f0a), The Astrophysical Journal Supplement Series, Volume 231, 1, 8 (2017)
+
+## 参加プロジェクト
+- [雷雲プロジェクト](https://thdr.info) 
+ 
 ## チュートリアル
 
 - [Python によるデータ解析](https://hackmd.io/@Muqy5BPdTOO7jC0oc3JIsA/ryDxCIHGD): Python でのデータ解析のヒント週
 
 ## ライブラリ
 - [Hoppy: High-energy Observatory Pipelines via PYthon](https://github.com/tenoto/hoppy): 高エネルギー宇宙物理学のデータ解析での個人的なライブラリ群
+- [Teru's private Neutron Star Catalog](https://docs.google.com/spreadsheets/d/1FEZGHECslW2gNPvlScyPY1XZsw02FSFr4YY-0tcqhls/edit?usp=sharing)
 
 ## 物理定数表 
 - [物理定数表 pdf](https://github.com/tenoto/repository/blob/master/docs/physical_const_entv190819j.pdf): 特注実験ノートの見開きに使用しているチートシート
@@ -45,19 +67,6 @@
 - [鉄輝線を考える](https://colab.research.google.com/drive/1-aGu89C3uKYFqYI-aBJh7yfoo97Z_K7d)[作成中]
 
 
-## 研究歴
-
-- [ORCID](https://orcid.org/0000-0003-1244-3100)
-- [GitHub](https://github.com/tenoto)
-- [Researchmap](https://researchmap.jp/teruaki_enoto/?lang=japanese)
-- [publons](https://publons.com/author/1432823/teruaki-enoto#profile)：おもに、Peer review (査読歴)を証明するために使っています。
-- [Mendeley](https://www.mendeley.com/profiles/teruaki-enoto/)
-- [主著論文リスト (A list of corresponding papers)](https://ui.adsabs.harvard.edu/public-libraries/ajqJYowKSt-gSdyyyBzQOA)
-- [全出版論文リスト (A list of all publications)](https://ui.adsabs.harvard.edu/public-libraries/SpXw37veTXyHsPiTYLwHLg)
-- [雷雲プロジェクト](https://thdr.info)
-
-
-
 ## プレスリリース
 
 - [金沢市の高校で捉えた放射線バーストで雷発生の瞬間に迫る](https://www.s.u-tokyo.ac.jp/ja/press/2019/6437/) 東京大学ほか, 2019/06/26 
@@ -69,11 +78,7 @@
 - [日本海側の冬の雷雲が40秒間放射した10 MeVガンマ線を初観測](https://www.s.u-tokyo.ac.jp/ja/press/2007/18.html) 東京大学ほか, 2007/10/5
 
 
-## 最近の研究論文
 
-- Enoto, Ksaka, and Shibata, ["Observational diversity of magnetarized neutron stars"](https://iopscience.iop.org/article/10.1088/1361-6633/ab3def), Reports on Progress in Physics, Volume 82, 10, 106901 (2019)
-- Enoto, Wada, et al., ["Photonuclear reactions triggered by lightning discharge"](https://www.nature.com/articles/nature24630), Nature, Volume 551, 481 (2017)
-- Enoto et al., ["Magnetar Broadband X-Ray Spectra Correlated with Magnetic Fields: Suzaku Archive of SSGRs and AXPs Combined with NuSTAR, Swift, and RXTE"](https://iopscience.iop.org/article/10.3847/1538-4365/aa6f0a), The Astrophysical Journal Supplement Series, Volume 231, 1, 8 (2017)
 
 ## 動画
 
@@ -81,7 +86,6 @@
 - [KURNe #2, Antimatter Lightning](https://www.youtube.com/watch?v=y2tP4m1VX50&feature=youtu.be) KyotoU Research News Express, 2018/04/24 
 - [Open Science Tide: Astrophysicists challenge thunderstorms with citizen supporters](https://www.youtube.com/watch?v=n1yRmsg1Gwk&feature=youtu.be)  International Symposium TEDxKyotoUniversity 2017, 2017/10/11 
 - [カミナリ雲からの謎のガンマ線ビームを追え！](https://academist-cf.com/projects/?id=16) 学術系クラウドファンディング academist, 2015/08/17
-
 
 
 ## 解説記事
@@ -120,6 +124,11 @@
 - [Matplotlib Color and Symbol Cheat Sheet](https://github.com/tenoto/repository/blob/master/docs/matplotlib_color_symbol_sheet.jpg)
 - [Recommended Figure Formats of Astrophysical Journals](https://github.com/tenoto/repository/blob/master/docs/figure_formats.pdf): 論文誌の推奨フォーマット
 
+```
+pdfunite $(ls filepath/*pdf) merge.pdf
+```
+
+
 
 ## 論文で作成した図（サンプル集）
 
@@ -130,9 +139,9 @@
 
 * * * 
 
-# リンク集
+## リンク集
 
-## 物理学データベース
+### 物理学データベース
 
 - [X-ray Data Booklet](http://xdb.lbl.gov)
 - [Particle Data Group](http://pdg.lbl.gov)
@@ -142,29 +151,28 @@
 - [Periodic Table](https://periodictable.com/index.html)
 
 
+### 天文学データベース
 
-## 天文学データベース
-
-### - 全般
+#### 全般
 
 - [Handbook of Space Astronomy and Astrophysics](http://ads.harvard.edu/books/hsaa/)
 - [Atomic Data for Astrophysicists (AtomDB)](http://www.atomdb.org/index.php)
 
-### - 全天データアーカイブ
+#### 全天データアーカイブ
 - [ESASky](https://sky.esa.int): 天体画像と重ねてデータが存在するかを教えてくれる
 - [JUDO2 (DARTS/ISAS/JAXA)](http://darts.isas.jaxa.jp/astro/judo2/)
 - [http://aladin.u-strasbg.fr/AladinLite/](http://aladin.u-strasbg.fr/AladinLite/)
 - [SMOKA](https://smoka.nao.ac.jp)
 - [The XMM-Newton Slew Survey Source CAtalog](https://www.cosmos.esa.int/web/xmm-newton/xmmsl2-ug)
 
-### - 銀河系 (Galaxy)
+#### 銀河系 (Galaxy)
 - [The ROSAT X-Ray All-Sky Survey](http://www.xray.mpe.mpg.de/cgi-bin/rosat/rosat-survey/)
 - [Dark Clouds World (Tokyo Gakugei University)](http://darkclouds.u-gakugei.ac.jp/index.html)
 - [Hi Profile Search](https://www.astro.uni-bonn.de/hisurvey/profile/)
 - [Milky Way in Molecular Clouds: A New Complete CO Survey](https://www.cfa.harvard.edu/mmw/MilkyWayinMolClouds.html)
 - [Galactic Legacy Infrared Midplane Survey Extraordinaire (GLIMPSE)](https://irsa.ipac.caltech.edu/data/SPITZER/GLIMPSE/)
 
-### - 超新星 (Supernovae)
+#### 超新星 (Supernovae)
 - [Transient Name Server](https://wis-tns.weizmann.ac.il/) : 超新星などのデータを調べることができる
 - [The Open Supernovae Catalog](https://sne.space/): スペクトルと光度曲線の統合アーカイブを目指している
 - [Carnegie Supernovae Project 2](http://csp2.lco.cl/hsiao/): Ia型で良く使われるテンプレート
@@ -173,13 +181,13 @@
 - [List of Supernovae (IAU)](http://www.cbat.eps.harvard.edu/lists/Supernovae.html)
 - [Asiago Supernova Catalog](https://heasarc.gsfc.nasa.gov/w3browse/all/asiagosn.html)
 
-### - 超新星残骸 (Supernovae Remnant)
+#### 超新星残骸 (Supernovae Remnant)
 - [A Catalogue of Galactic Supernova Remnants: Documentation (Green Catalog)](http://www.mrao.cam.ac.uk/projects/surveys/snrs/snrs.info.html)
 - [Chandra Supernova Remnant Catalog (SAO)](http://hea-www.cfa.harvard.edu/ChandraSNR/)
 - [Online high-energy catalogue of SNRs (the University of Manitoba)](http://snrcat.physics.umanitoba.ca)
 - [The TeGeV Catalogue (SSDC)](http://www.asdc.asi.it/tgevcat/)
 
-### - 中性子星 (Neutron star)
+#### 中性子星 (Neutron star)
 - [McGill Online Magnetar Catalog](http://www.physics.mcgill.ca/~pulsar/magnetar/main.html)
 - [The Pulsar Wind Nebula Catalog (McGill Pulsar Group)](http://www.physics.mcgill.ca/~pulsar/pwncat.html)
 - [GBM Accreting Pulsar Histories](https://gammaray.nsstc.nasa.gov/gbm/science/pulsars.html)
@@ -188,42 +196,40 @@
 - [The RRATalog](http://astro.phys.wvu.edu/rratalog/)
 - [Isolated Neutron Stars (Vigano et al 2013)](http://www.neutronstarcooling.info)
 
-### - 白色矮星 (White dwarf)
+#### 白色矮星 (White dwarf)
 - [The Catalog and Atlas of Cataclysmic Variables](https://archive.stsci.edu/prepds/cvcat/)
 
-### - ブラックホール (Black hole)
+#### ブラックホール (Black hole)
 - [Veron Catalog of Quasars & AGN, 13th Edition](https://heasarc.gsfc.nasa.gov/W3Browse/all/veroncat.html)
 
-### - その他の高エネルギー天体カタログ
+#### その他の高エネルギー天体カタログ
 - [X-ray Binaries Catalogue](http://www.xrbc.org)
 - [The H.E.S.S. Source Catalog](https://www.mpi-hd.mpg.de/hfm/HESS/pages/home/sources/)
 
 
-## 宇宙観測用の人工衛星
+### 宇宙観測用の人工衛星
 
-### - XMM-Newton
+#### XMM-Newton
 - [XMM-Newton Users Handbook S3.3.2 Science modes of the EPIC cameras](https://heasarc.gsfc.nasa.gov/docs/xmm/uhb/epicmode.html): EPIC のカメラモードの確認
 
-## ウェブ教科書
+### ウェブ教科書
 
 - [The Feynman Lectures Website](http://www.feynmanlectures.caltech.edu): ファインマンレクチャー
 - [The Course of Theoretical Physics by Landau and Lifshitz](https://archive.org/search.php?query=creator%3A%22L.D.+Landau+%26+E.M.+Lifshitz%22): ランダウ物理学教程
 - [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/loi/astro)
 
-
-## 解析ソフトウェア
+### 解析ソフトウェア
 
 - [Super Mjograph](https://www.mjograph.net)
 - [Plot Digitizer](http://plotdigitizer.sourceforge.net)
 - [Emmanoulopoulos Lightcurve Simulation](https://github.com/samconnolly/DELightcurveSimulation)
 - [HENDRICS and stingray](https://github.com/StingraySoftware) : 時刻解析やスペクトル解析に使える Bacheeti さんのコード
 
-## その他
+### その他
 
 - [World Clock Meeting Planner](https://www.timeanddate.com/worldclock/meeting.html) : 国をまたいだ会議時間の設定に便利
 - [カラーユニバーサルデザイン推奨配色セット](http://www2.cudo.jp/wp/wp-content/uploads/2016/10/CUD_Colorset_Guidebook.pdf)
 - [Rainy Cafe](http://rainycafe.com) : 雨音を聞いて集中しましょう
-
 
 
 
